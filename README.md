@@ -7,7 +7,7 @@
 | Image Picker   | Bottom Sheet |
 | InteractiveViewer   | IndexedStack |
 | Cached Network Image   | TabBarView |
-| Lottie   |
+| Lottie   | |
 
 ### Use Case (lasts 00:09:55)
 | Pinterest |

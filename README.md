@@ -16,5 +16,4 @@
 | Pinterest |
 |----------------|
 | ![use_case](assets/readme/use_case.gif) |
-|----------------|
-| ![YouTube](https://www.youtube.com/watch?v=vRM7LNPo1ag) |
+| [YouTube](https://www.youtube.com/watch?v=vRM7LNPo1ag) |

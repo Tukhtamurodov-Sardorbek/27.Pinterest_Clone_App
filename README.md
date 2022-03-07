@@ -17,4 +17,4 @@
 ### Use Case (lasts 00:09:55)
 | Pinterest |
 |----------------|
-| [use_case](assets/readme/use_case.gif) |
+| ![use_case](assets/readme/use_case.gif) |

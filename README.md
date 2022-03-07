@@ -1,13 +1,13 @@
 # PINTEREST CLONE APP
 
 
-| - Staggered Grid View | - Download file from Internet |
+| Staggered Grid View | Download file from Internet |
 |----------------|:---------:|
-| - Rest API   | - TabBar View |
-| - Image Picker   | - Bottom Sheet |
-| - InteractiveViewer   | - IndexedStack |
-| - Cached Network Image   | - TabBarView |
-| - Lottie  |  |
+| Rest API   | TabBar View |
+| Image Picker   | Bottom Sheet |
+| InteractiveViewer   | IndexedStack |
+| Cached Network Image   | TabBarView |
+| Lottie   |
 
 ### Use Case (lasts 00:09:55)
 | Pinterest |

@@ -3,11 +3,11 @@
 
 | Staggered Grid View | Download file from Internet |
 |----------------|:---------:|
-| Rest API   | TabBar View |
+| Rest API   | TabBar & TabBarView |
 | Image Picker   | Bottom Sheet |
 | InteractiveViewer   | IndexedStack |
-| Cached Network Image   | TabBarView |
-| Lottie   | |
+| Cached Network Image   | Scroll Controller |
+| Pull To Refresh | Lottie |
 
 ### Use Case (lasts 00:09:55)
 | Pinterest |

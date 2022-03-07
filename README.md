@@ -1,7 +1,7 @@
 # PINTEREST CLONE APP
 
 
-| Staggered Grid View | Download file from Internet |
+|    Staggered Grid View    | Download file from the Internet |
 |----------------|:---------:|
 | Rest API   | TabBar & TabBarView |
 | Image Picker   | Bottom Sheet |

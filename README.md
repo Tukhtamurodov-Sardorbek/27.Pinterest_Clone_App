@@ -12,9 +12,9 @@
 - IndexedStack
 - Scroll Controller
 
-- [YouTube](https://www.youtube.com/watch?v=vRM7LNPo1ag)
-
 ### Use Case (lasts 00:09:55)
 | Pinterest |
 |----------------|
 | ![use_case](assets/readme/use_case.gif) |
+|----------------|
+| ![YouTube](https://www.youtube.com/watch?v=vRM7LNPo1ag) |

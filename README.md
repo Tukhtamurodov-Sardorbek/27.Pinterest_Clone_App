@@ -1,9 +1,8 @@
 # PINTEREST CLONE APP
 
-| Spalsh Page UI | Sigin page UI | SignUp page UI |
-|----------------|:---------:|----------------:|
+
 | - Rest API  | - Download file from Internet |
-|----------------|:---------:|----------------:|
+|----------------|:---------:|
 | - Staggered Grid View   | - TabBar View |
 | - Image Picker   | - Bottom Sheet |
 | - InteractiveViewer   | - IndexedStack |

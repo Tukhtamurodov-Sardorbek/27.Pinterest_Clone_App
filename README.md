@@ -1,6 +1,6 @@
 # PINTEREST CLONE APP
 
-|  |  |
+|||
 |----------------|:---------:|
 | - Rest API  | - Download file from Internet |
 | - Staggered Grid View   | - TabBar View |
